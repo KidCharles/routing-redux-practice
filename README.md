@@ -16,7 +16,8 @@ the rest is up to you! # routing-redux-practice
 
 Easy mode:
 <p align="center">
-  <img src="./src/assets/images/pic1.png" width="350"/>
-  <!-- <img src="your_relative_path_here_number_2_large_name" width="350"/> -->
+  <img src="./src/assets/images/pic1.png" width="500"/>
+  <img src="./src/assets/images/pic2.png" width="500"/>
+  <img src="./src/assets/images/pic3.png" width="500"/>
 </p>
 
