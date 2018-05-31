@@ -20,4 +20,12 @@ Easy mode:
   <img src="./src/assets/images/pic2.png" width="500"/>
   <img src="./src/assets/images/pic3.png" width="500"/>
 </p>
+----------------
+Hard mode:
+<p align="center">
+  <img src="./src/assets/images/pic1-1.png" width="500"/>
+  <img src="./src/assets/images/pic2-2.png" width="500"/>
+  <img src="./src/assets/images/pic3-3.png" width="500"/>
+  <img src="./src/assets/images/pic4-4.png" width="500"/>
+</p>
 
