@@ -27,6 +27,6 @@ Hard mode:
   <img src="./src/assets/images/pic2-2.png" width="500"/>
   <img src="./src/assets/images/pic3-3.png" width="500"/>
   <img src="./src/assets/images/pic4-4.png" width="500"/>
-  <img src="./src/assets/images/pic4-5.png" width="500"/>
+  <img src="./src/assets/images/pic5-5.png" width="500"/>
 </p>
 
