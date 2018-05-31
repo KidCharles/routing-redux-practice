@@ -16,7 +16,7 @@ the rest is up to you! # routing-redux-practice
 
 Easy mode:
 <p align="center">
-  <img src="/Users/alexclark/Documents/devMountain/mentor/redux-routing-review/src/assets/images/Screen Shot 2018-05-31 at 10.10.19 AM.png" width="350"/>
+  <img src="/Users/alexclark/Documents/devMountain/mentor/redux-routing-review/src/assets/images/pic1.png" width="350"/>
   <!-- <img src="your_relative_path_here_number_2_large_name" width="350"/> -->
 </p>
 
