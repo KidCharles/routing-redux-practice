@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import {connect} from 'react-redux'
+import {Link} from 'react-router-dom'
+
 
 function Results(props) {
     console.log(props)
@@ -12,6 +14,7 @@ function Results(props) {
         <div>
       <h1>Results</h1>
       {answers}
+      <Link to='partTwo'> <button> Part Two -> </button></Link>
     </div>
   )
 };

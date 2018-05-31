@@ -3,6 +3,7 @@ import {addAnswer} from '../ducks/reducer'
 import {connect} from 'react-redux'
 import {Link} from 'react-router-dom'
 
+
 class Favorites extends Component {
     constructor(props) {
         super(props);
@@ -30,7 +31,6 @@ class Favorites extends Component {
     }
     
   render() {
-      console.log(this.props)
     return (
       <div>
         <h1>Favorites</h1>
