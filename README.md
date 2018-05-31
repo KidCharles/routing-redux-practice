@@ -12,3 +12,8 @@ wrap your App and Provider with Hashrouter
 make a router folder with a routes folder
 
 the rest is up to you! # routing-redux-practice
+
+
+Easy mode:
+![Alt text](/Users/alexclark/Documents/devMountain/mentor/redux-routing-review/src/assets/images/Screen Shot 2018-05-31 at 10.09.50 AM.png?raw=true "Title")
+
